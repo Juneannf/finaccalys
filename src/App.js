@@ -1,3 +1,11 @@
 import React from 'react';
-function App() { return <h1>Welcome to Finaccalys</h1>; }
+
+function App() {
+  return (
+    <div>
+      <h1>Welcome to Finaccalys</h1>
+    </div>
+  );
+}
+
 export default App;

@@ -1,3 +1,3 @@
 # Finaccalys
 
-This is the frontend for the Finaccalys app.
+React app for financial projections and reporting.
